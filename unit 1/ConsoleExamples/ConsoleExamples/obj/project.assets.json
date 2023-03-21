@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Class practical hours\\ConsoleExamples\\ConsoleExamples\\ConsoleExamples.csproj",
+      "projectUniqueName": "D:\\Dotnet Class\\BscCSIT-2023\\unit 1\\ConsoleExamples\\ConsoleExamples\\ConsoleExamples.csproj",
       "projectName": "ConsoleExamples",
-      "projectPath": "D:\\Class practical hours\\ConsoleExamples\\ConsoleExamples\\ConsoleExamples.csproj",
+      "projectPath": "D:\\Dotnet Class\\BscCSIT-2023\\unit 1\\ConsoleExamples\\ConsoleExamples\\ConsoleExamples.csproj",
       "packagesPath": "C:\\Users\\Emma\\.nuget\\packages\\",
-      "outputPath": "D:\\Class practical hours\\ConsoleExamples\\ConsoleExamples\\obj\\",
+      "outputPath": "D:\\Dotnet Class\\BscCSIT-2023\\unit 1\\ConsoleExamples\\ConsoleExamples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emma\\AppData\\Roaming\\NuGet\\NuGet.Config",
