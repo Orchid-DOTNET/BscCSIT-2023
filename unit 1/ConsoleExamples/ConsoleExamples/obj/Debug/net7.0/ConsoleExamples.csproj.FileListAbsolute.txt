@@ -1,0 +1,15 @@
+D:\Class practical hours\ConsoleExamples\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.exe
+D:\Class practical hours\ConsoleExamples\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.deps.json
+D:\Class practical hours\ConsoleExamples\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.runtimeconfig.json
+D:\Class practical hours\ConsoleExamples\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.dll
+D:\Class practical hours\ConsoleExamples\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.pdb
+D:\Class practical hours\ConsoleExamples\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.csproj.AssemblyReference.cache
+D:\Class practical hours\ConsoleExamples\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class practical hours\ConsoleExamples\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.AssemblyInfoInputs.cache
+D:\Class practical hours\ConsoleExamples\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.AssemblyInfo.cs
+D:\Class practical hours\ConsoleExamples\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.csproj.CoreCompileInputs.cache
+D:\Class practical hours\ConsoleExamples\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.dll
+D:\Class practical hours\ConsoleExamples\ConsoleExamples\obj\Debug\net7.0\refint\ConsoleExamples.dll
+D:\Class practical hours\ConsoleExamples\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.pdb
+D:\Class practical hours\ConsoleExamples\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.genruntimeconfig.cache
+D:\Class practical hours\ConsoleExamples\ConsoleExamples\obj\Debug\net7.0\ref\ConsoleExamples.dll
