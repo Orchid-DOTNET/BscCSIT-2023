@@ -1,3 +1,5 @@
+// Assignment 1 String Editing
+
 namespace Net_Centric_Compting
 {
     class StringEdit
