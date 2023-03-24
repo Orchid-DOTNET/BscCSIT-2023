@@ -1,12 +1,12 @@
 // Assignment 1 String Editing
 
-namespace Net_Centric_Compting
+namespace Assignment1
 {
     class StringEdit
     {
-        public static void Main()
+        public static void EditString()
         {
-            Console.WriteLine("[*] Enter a string: ");
+            Console.Write("[*] Enter a string: ");
             string value = Console.ReadLine();
             string[] valArr = value.Split(" ");
             foreach(string val in valArr ) {
