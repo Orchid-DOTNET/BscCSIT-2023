@@ -1,0 +1,15 @@
+E:\BscCSIT-2023\Section A\AnkitRai\bin\Debug\net7.0\AnkitRai.exe
+E:\BscCSIT-2023\Section A\AnkitRai\bin\Debug\net7.0\AnkitRai.deps.json
+E:\BscCSIT-2023\Section A\AnkitRai\bin\Debug\net7.0\AnkitRai.runtimeconfig.json
+E:\BscCSIT-2023\Section A\AnkitRai\bin\Debug\net7.0\AnkitRai.dll
+E:\BscCSIT-2023\Section A\AnkitRai\bin\Debug\net7.0\AnkitRai.pdb
+E:\BscCSIT-2023\Section A\AnkitRai\obj\Debug\net7.0\AnkitRai.csproj.AssemblyReference.cache
+E:\BscCSIT-2023\Section A\AnkitRai\obj\Debug\net7.0\AnkitRai.GeneratedMSBuildEditorConfig.editorconfig
+E:\BscCSIT-2023\Section A\AnkitRai\obj\Debug\net7.0\AnkitRai.AssemblyInfoInputs.cache
+E:\BscCSIT-2023\Section A\AnkitRai\obj\Debug\net7.0\AnkitRai.AssemblyInfo.cs
+E:\BscCSIT-2023\Section A\AnkitRai\obj\Debug\net7.0\AnkitRai.csproj.CoreCompileInputs.cache
+E:\BscCSIT-2023\Section A\AnkitRai\obj\Debug\net7.0\AnkitRai.dll
+E:\BscCSIT-2023\Section A\AnkitRai\obj\Debug\net7.0\refint\AnkitRai.dll
+E:\BscCSIT-2023\Section A\AnkitRai\obj\Debug\net7.0\AnkitRai.pdb
+E:\BscCSIT-2023\Section A\AnkitRai\obj\Debug\net7.0\AnkitRai.genruntimeconfig.cache
+E:\BscCSIT-2023\Section A\AnkitRai\obj\Debug\net7.0\ref\AnkitRai.dll
