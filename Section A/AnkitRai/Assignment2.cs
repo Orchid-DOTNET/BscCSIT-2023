@@ -3,7 +3,7 @@ using System.IO;
 
 class Program
 {
-    static void Main(string[] args)
+    static void ANkit(string[] args)
     {
         string filePath = @"E:\text.txt"; 
 

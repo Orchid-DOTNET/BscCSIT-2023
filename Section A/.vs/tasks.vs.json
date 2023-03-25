@@ -5,6 +5,16 @@
       "taskLabel": "task-AnkitRai",
       "appliesTo": "AnkitRai/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-Assignment2",
+      "appliesTo": "AnkitRai/Assignment2.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-AnkitRai",
+      "appliesTo": "AnkitRai/",
+      "type": "launch"
     }
   ]
 }
