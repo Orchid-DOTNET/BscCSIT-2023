@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\bin\Debug\net6.0\BilishKharbuja.exe
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\bin\Debug\net6.0\BilishKharbuja.deps.json
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\bin\Debug\net6.0\BilishKharbuja.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\bin\Debug\net6.0\BilishKharbuja.dll
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\bin\Debug\net6.0\BilishKharbuja.pdb
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\obj\Debug\net6.0\BilishKharbuja.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\obj\Debug\net6.0\BilishKharbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\obj\Debug\net6.0\BilishKharbuja.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\obj\Debug\net6.0\BilishKharbuja.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\obj\Debug\net6.0\BilishKharbuja.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\obj\Debug\net6.0\BilishKharbuja.dll
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\obj\Debug\net6.0\refint\BilishKharbuja.dll
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\obj\Debug\net6.0\BilishKharbuja.pdb
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\obj\Debug\net6.0\BilishKharbuja.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\obj\Debug\net6.0\ref\BilishKharbuja.dll
