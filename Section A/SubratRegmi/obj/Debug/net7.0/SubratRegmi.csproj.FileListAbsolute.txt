@@ -1,0 +1,15 @@
+C:\Users\sssre\OneDrive\Documents\CSIT\CSIT VI\.NET\github\BscCSIT-2023\Section A\SubratRegmi\bin\Debug\net7.0\SubratRegmi.exe
+C:\Users\sssre\OneDrive\Documents\CSIT\CSIT VI\.NET\github\BscCSIT-2023\Section A\SubratRegmi\bin\Debug\net7.0\SubratRegmi.deps.json
+C:\Users\sssre\OneDrive\Documents\CSIT\CSIT VI\.NET\github\BscCSIT-2023\Section A\SubratRegmi\bin\Debug\net7.0\SubratRegmi.runtimeconfig.json
+C:\Users\sssre\OneDrive\Documents\CSIT\CSIT VI\.NET\github\BscCSIT-2023\Section A\SubratRegmi\bin\Debug\net7.0\SubratRegmi.dll
+C:\Users\sssre\OneDrive\Documents\CSIT\CSIT VI\.NET\github\BscCSIT-2023\Section A\SubratRegmi\bin\Debug\net7.0\SubratRegmi.pdb
+C:\Users\sssre\OneDrive\Documents\CSIT\CSIT VI\.NET\github\BscCSIT-2023\Section A\SubratRegmi\obj\Debug\net7.0\SubratRegmi.csproj.AssemblyReference.cache
+C:\Users\sssre\OneDrive\Documents\CSIT\CSIT VI\.NET\github\BscCSIT-2023\Section A\SubratRegmi\obj\Debug\net7.0\SubratRegmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sssre\OneDrive\Documents\CSIT\CSIT VI\.NET\github\BscCSIT-2023\Section A\SubratRegmi\obj\Debug\net7.0\SubratRegmi.AssemblyInfoInputs.cache
+C:\Users\sssre\OneDrive\Documents\CSIT\CSIT VI\.NET\github\BscCSIT-2023\Section A\SubratRegmi\obj\Debug\net7.0\SubratRegmi.AssemblyInfo.cs
+C:\Users\sssre\OneDrive\Documents\CSIT\CSIT VI\.NET\github\BscCSIT-2023\Section A\SubratRegmi\obj\Debug\net7.0\SubratRegmi.csproj.CoreCompileInputs.cache
+C:\Users\sssre\OneDrive\Documents\CSIT\CSIT VI\.NET\github\BscCSIT-2023\Section A\SubratRegmi\obj\Debug\net7.0\SubratRegmi.dll
+C:\Users\sssre\OneDrive\Documents\CSIT\CSIT VI\.NET\github\BscCSIT-2023\Section A\SubratRegmi\obj\Debug\net7.0\refint\SubratRegmi.dll
+C:\Users\sssre\OneDrive\Documents\CSIT\CSIT VI\.NET\github\BscCSIT-2023\Section A\SubratRegmi\obj\Debug\net7.0\SubratRegmi.pdb
+C:\Users\sssre\OneDrive\Documents\CSIT\CSIT VI\.NET\github\BscCSIT-2023\Section A\SubratRegmi\obj\Debug\net7.0\SubratRegmi.genruntimeconfig.cache
+C:\Users\sssre\OneDrive\Documents\CSIT\CSIT VI\.NET\github\BscCSIT-2023\Section A\SubratRegmi\obj\Debug\net7.0\ref\SubratRegmi.dll
