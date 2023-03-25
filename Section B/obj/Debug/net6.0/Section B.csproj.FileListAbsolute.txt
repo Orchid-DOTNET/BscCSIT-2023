@@ -1,0 +1,15 @@
+C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\bin\Debug\net6.0\Section B.exe
+C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\bin\Debug\net6.0\Section B.deps.json
+C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\bin\Debug\net6.0\Section B.runtimeconfig.json
+C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\bin\Debug\net6.0\Section B.dll
+C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\bin\Debug\net6.0\Section B.pdb
+C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\obj\Debug\net6.0\Section B.csproj.AssemblyReference.cache
+C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\obj\Debug\net6.0\Section B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\obj\Debug\net6.0\Section B.AssemblyInfoInputs.cache
+C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\obj\Debug\net6.0\Section B.AssemblyInfo.cs
+C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\obj\Debug\net6.0\Section B.csproj.CoreCompileInputs.cache
+C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\obj\Debug\net6.0\Section B.dll
+C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\obj\Debug\net6.0\refint\Section B.dll
+C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\obj\Debug\net6.0\Section B.pdb
+C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\obj\Debug\net6.0\Section B.genruntimeconfig.cache
+C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\obj\Debug\net6.0\ref\Section B.dll
