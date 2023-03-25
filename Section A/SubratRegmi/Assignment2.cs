@@ -15,7 +15,7 @@ namespace Assignment2
         {
             
             int count = 0;
-            StreamReader file = new StreamReader("myfile.txt");
+            StreamReader file = new StreamReader("C:\\Users\\sssre\\OneDrive\\Documents\\CSIT\\CSIT VI\\.NET\\github\\BscCSIT-2023\\Section A\\SubratRegmi\\myfile.txt");
             Console.WriteLine("File Content : ");
             string line = file.ReadLine();
             while (line != null)
