@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DOT-NET\\BscCSIT-2023\\Section A\\Assignment2\\Assignment2.csproj": {}
+    "E:\\DOT-NET\\BscCSIT-2023\\Section A\\NitishaTimalsina\\Assignment2\\Assignment2.csproj": {}
   },
   "projects": {
-    "E:\\DOT-NET\\BscCSIT-2023\\Section A\\Assignment2\\Assignment2.csproj": {
+    "E:\\DOT-NET\\BscCSIT-2023\\Section A\\NitishaTimalsina\\Assignment2\\Assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DOT-NET\\BscCSIT-2023\\Section A\\Assignment2\\Assignment2.csproj",
+        "projectUniqueName": "E:\\DOT-NET\\BscCSIT-2023\\Section A\\NitishaTimalsina\\Assignment2\\Assignment2.csproj",
         "projectName": "Assignment2",
-        "projectPath": "E:\\DOT-NET\\BscCSIT-2023\\Section A\\Assignment2\\Assignment2.csproj",
+        "projectPath": "E:\\DOT-NET\\BscCSIT-2023\\Section A\\NitishaTimalsina\\Assignment2\\Assignment2.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\DOT-NET\\BscCSIT-2023\\Section A\\Assignment2\\obj\\",
+        "outputPath": "E:\\DOT-NET\\BscCSIT-2023\\Section A\\NitishaTimalsina\\Assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
