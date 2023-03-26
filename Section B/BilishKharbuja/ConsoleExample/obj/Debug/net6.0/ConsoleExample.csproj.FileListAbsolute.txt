@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\ConsoleExample\bin\Debug\net6.0\ConsoleExample.exe
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\ConsoleExample\bin\Debug\net6.0\ConsoleExample.deps.json
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\ConsoleExample\bin\Debug\net6.0\ConsoleExample.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\ConsoleExample\bin\Debug\net6.0\ConsoleExample.dll
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\ConsoleExample\bin\Debug\net6.0\ConsoleExample.pdb
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\ConsoleExample\obj\Debug\net6.0\ConsoleExample.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\ConsoleExample\obj\Debug\net6.0\ConsoleExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\ConsoleExample\obj\Debug\net6.0\ConsoleExample.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\ConsoleExample\obj\Debug\net6.0\ConsoleExample.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\ConsoleExample\obj\Debug\net6.0\ConsoleExample.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\ConsoleExample\obj\Debug\net6.0\ConsoleExample.dll
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\ConsoleExample\obj\Debug\net6.0\refint\ConsoleExample.dll
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\ConsoleExample\obj\Debug\net6.0\ConsoleExample.pdb
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\ConsoleExample\obj\Debug\net6.0\ConsoleExample.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Dotnet\BscCSIT-2023\Section B\BilishKharbuja\ConsoleExample\obj\Debug\net6.0\ref\ConsoleExample.dll
