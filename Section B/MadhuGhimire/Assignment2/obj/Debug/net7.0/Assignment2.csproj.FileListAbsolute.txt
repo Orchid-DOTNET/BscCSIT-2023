@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\BscCSIT-2023\Section B\MadhuGhimire\Assignment2\bin\Debug\net7.0\Assignment2.exe
+C:\Users\ACER\Desktop\BscCSIT-2023\Section B\MadhuGhimire\Assignment2\bin\Debug\net7.0\Assignment2.deps.json
+C:\Users\ACER\Desktop\BscCSIT-2023\Section B\MadhuGhimire\Assignment2\bin\Debug\net7.0\Assignment2.runtimeconfig.json
+C:\Users\ACER\Desktop\BscCSIT-2023\Section B\MadhuGhimire\Assignment2\bin\Debug\net7.0\Assignment2.dll
+C:\Users\ACER\Desktop\BscCSIT-2023\Section B\MadhuGhimire\Assignment2\bin\Debug\net7.0\Assignment2.pdb
+C:\Users\ACER\Desktop\BscCSIT-2023\Section B\MadhuGhimire\Assignment2\obj\Debug\net7.0\Assignment2.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\BscCSIT-2023\Section B\MadhuGhimire\Assignment2\obj\Debug\net7.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\BscCSIT-2023\Section B\MadhuGhimire\Assignment2\obj\Debug\net7.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\BscCSIT-2023\Section B\MadhuGhimire\Assignment2\obj\Debug\net7.0\Assignment2.AssemblyInfo.cs
+C:\Users\ACER\Desktop\BscCSIT-2023\Section B\MadhuGhimire\Assignment2\obj\Debug\net7.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\BscCSIT-2023\Section B\MadhuGhimire\Assignment2\obj\Debug\net7.0\Assignment2.dll
+C:\Users\ACER\Desktop\BscCSIT-2023\Section B\MadhuGhimire\Assignment2\obj\Debug\net7.0\refint\Assignment2.dll
+C:\Users\ACER\Desktop\BscCSIT-2023\Section B\MadhuGhimire\Assignment2\obj\Debug\net7.0\Assignment2.pdb
+C:\Users\ACER\Desktop\BscCSIT-2023\Section B\MadhuGhimire\Assignment2\obj\Debug\net7.0\Assignment2.genruntimeconfig.cache
+C:\Users\ACER\Desktop\BscCSIT-2023\Section B\MadhuGhimire\Assignment2\obj\Debug\net7.0\ref\Assignment2.dll
