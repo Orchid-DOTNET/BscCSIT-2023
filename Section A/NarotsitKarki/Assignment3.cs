@@ -1,15 +1,13 @@
-﻿using Assignment3;
-using System;
+﻿using System;
 using System.Linq;
-
-
+//  Assignment 3 Display Employee Information Whose Age > 30 by the order of ID;
 
 namespace Assignment3
 {
     public class Employee
     {
         
-        private int id;
+        public int id;
         private string name;
         public int age;
         private string email;
@@ -45,22 +43,24 @@ namespace Assignment3
             // Employee Collection
             IList<Employee> Employee_List = new List<Employee>()
             {
-            new Employee(1,"Narotsit Karki",31,"narotsit@gmail.com","Django Developer",35000),
-            new Employee(2,"Ankit Rai",22,"ankit@gmail.com","Python Developer",45000),
-            new Employee(3,"Nitisha Timalsina",35,"nitisha@gmail.com","Digital Marketing",35000),
-            new Employee(4,"Raajz Koirala",31,"raajz@gmail.com",".NET Developer",55000),
-            new Employee(5,"Milan Khatiwada",25,"milan@gmail.com","PHP Developer",25000),
-            new Employee(6,"Suyash Karki",32,"suyash@gmail.com","UI/UX Developer",55000),
-            new Employee(7,"Subrat Regmi",22,"subrat@gmail.com","Ruby Developer",65000),
-            new Employee(8,"Anuj Paudel",42,"anuj@gmail.com","DevOps",75000),
+            new Employee(5,"Narotsit Karki",31,"narotsit@gmail.com","Django Developer",35000),
+            new Employee(9,"Ankit Rai",22,"ankit@gmail.com","Python Developer",45000),
+            new Employee(1,"Nitisha Timalsina",35,"nitisha@gmail.com","Digital Marketing",35000),
+            new Employee(2,"Raajz Koirala",31,"raajz@gmail.com",".NET Developer",55000),
+            new Employee(11,"Milan Khatiwada",25,"milan@gmail.com","PHP Developer",25000),
+            new Employee(45,"Suyash Karki",32,"suyash@gmail.com","UI/UX Developer",55000),
+            new Employee(72,"Subrat Regmi",22,"subrat@gmail.com","Ruby Developer",65000),
+            new Employee(10,"Anuj Paudel",42,"anuj@gmail.com","DevOps",75000),
 
             };
 
             // Performing Query 
             var valid_employee = Employee_List.Where(emp => emp.age > 30).ToList<Employee>();
+            // Ordering Employee List by ID
+            var ordered_employee_list = valid_employee.OrderBy(emp => emp.id);
 
             // displaying Employee Information Whose Age is Greater than 30
-            foreach (Employee emp in valid_employee)
+            foreach (Employee emp in ordered_employee_list)
             {
                 emp.show_information();
                 Console.WriteLine("\n-------------------------------------------------------------\n");
