@@ -1,0 +1,15 @@
+E:\DOT-NET\BscCSIT-2023\Section A\NitishaTimalsina\bin\Debug\net7.0\NitishaTimalsina.exe
+E:\DOT-NET\BscCSIT-2023\Section A\NitishaTimalsina\bin\Debug\net7.0\NitishaTimalsina.deps.json
+E:\DOT-NET\BscCSIT-2023\Section A\NitishaTimalsina\bin\Debug\net7.0\NitishaTimalsina.runtimeconfig.json
+E:\DOT-NET\BscCSIT-2023\Section A\NitishaTimalsina\bin\Debug\net7.0\NitishaTimalsina.dll
+E:\DOT-NET\BscCSIT-2023\Section A\NitishaTimalsina\bin\Debug\net7.0\NitishaTimalsina.pdb
+E:\DOT-NET\BscCSIT-2023\Section A\NitishaTimalsina\obj\Debug\net7.0\NitishaTimalsina.csproj.AssemblyReference.cache
+E:\DOT-NET\BscCSIT-2023\Section A\NitishaTimalsina\obj\Debug\net7.0\NitishaTimalsina.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOT-NET\BscCSIT-2023\Section A\NitishaTimalsina\obj\Debug\net7.0\NitishaTimalsina.AssemblyInfoInputs.cache
+E:\DOT-NET\BscCSIT-2023\Section A\NitishaTimalsina\obj\Debug\net7.0\NitishaTimalsina.AssemblyInfo.cs
+E:\DOT-NET\BscCSIT-2023\Section A\NitishaTimalsina\obj\Debug\net7.0\NitishaTimalsina.csproj.CoreCompileInputs.cache
+E:\DOT-NET\BscCSIT-2023\Section A\NitishaTimalsina\obj\Debug\net7.0\NitishaTimalsina.dll
+E:\DOT-NET\BscCSIT-2023\Section A\NitishaTimalsina\obj\Debug\net7.0\refint\NitishaTimalsina.dll
+E:\DOT-NET\BscCSIT-2023\Section A\NitishaTimalsina\obj\Debug\net7.0\NitishaTimalsina.pdb
+E:\DOT-NET\BscCSIT-2023\Section A\NitishaTimalsina\obj\Debug\net7.0\NitishaTimalsina.genruntimeconfig.cache
+E:\DOT-NET\BscCSIT-2023\Section A\NitishaTimalsina\obj\Debug\net7.0\ref\NitishaTimalsina.dll
