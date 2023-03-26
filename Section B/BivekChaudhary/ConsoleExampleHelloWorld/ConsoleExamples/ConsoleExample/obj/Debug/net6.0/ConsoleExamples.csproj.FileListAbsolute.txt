@@ -1,5 +1,0 @@
-C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\BivekChaudhary\ConsoleExamples\ConsoleExamples\obj\Debug\net6.0\ConsoleExamples.csproj.AssemblyReference.cache
-C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\BivekChaudhary\ConsoleExamples\ConsoleExamples\obj\Debug\net6.0\ConsoleExamples.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\BivekChaudhary\ConsoleExamples\ConsoleExamples\obj\Debug\net6.0\ConsoleExamples.AssemblyInfoInputs.cache
-C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\BivekChaudhary\ConsoleExamples\ConsoleExamples\obj\Debug\net6.0\ConsoleExamples.AssemblyInfo.cs
-C:\Users\Bivek\Desktop\dotNet\BscCSIT-2023\Section B\BivekChaudhary\ConsoleExamples\ConsoleExamples\obj\Debug\net6.0\ConsoleExamples.csproj.CoreCompileInputs.cache
