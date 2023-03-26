@@ -1,0 +1,15 @@
+C:\Users\Hp\OneDrive\Desktop\dotNet\BscCSIT-2023\Section A\BibekParajuli\bin\Debug\net7.0\BibekParajuli.exe
+C:\Users\Hp\OneDrive\Desktop\dotNet\BscCSIT-2023\Section A\BibekParajuli\bin\Debug\net7.0\BibekParajuli.deps.json
+C:\Users\Hp\OneDrive\Desktop\dotNet\BscCSIT-2023\Section A\BibekParajuli\bin\Debug\net7.0\BibekParajuli.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\dotNet\BscCSIT-2023\Section A\BibekParajuli\bin\Debug\net7.0\BibekParajuli.dll
+C:\Users\Hp\OneDrive\Desktop\dotNet\BscCSIT-2023\Section A\BibekParajuli\bin\Debug\net7.0\BibekParajuli.pdb
+C:\Users\Hp\OneDrive\Desktop\dotNet\BscCSIT-2023\Section A\BibekParajuli\obj\Debug\net7.0\BibekParajuli.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\dotNet\BscCSIT-2023\Section A\BibekParajuli\obj\Debug\net7.0\BibekParajuli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\dotNet\BscCSIT-2023\Section A\BibekParajuli\obj\Debug\net7.0\BibekParajuli.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\dotNet\BscCSIT-2023\Section A\BibekParajuli\obj\Debug\net7.0\BibekParajuli.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\dotNet\BscCSIT-2023\Section A\BibekParajuli\obj\Debug\net7.0\BibekParajuli.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\dotNet\BscCSIT-2023\Section A\BibekParajuli\obj\Debug\net7.0\BibekParajuli.dll
+C:\Users\Hp\OneDrive\Desktop\dotNet\BscCSIT-2023\Section A\BibekParajuli\obj\Debug\net7.0\refint\BibekParajuli.dll
+C:\Users\Hp\OneDrive\Desktop\dotNet\BscCSIT-2023\Section A\BibekParajuli\obj\Debug\net7.0\BibekParajuli.pdb
+C:\Users\Hp\OneDrive\Desktop\dotNet\BscCSIT-2023\Section A\BibekParajuli\obj\Debug\net7.0\BibekParajuli.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\dotNet\BscCSIT-2023\Section A\BibekParajuli\obj\Debug\net7.0\ref\BibekParajuli.dll
