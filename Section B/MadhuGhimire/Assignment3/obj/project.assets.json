@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\BscCSIT-2023\\Section B\\MadhuGhimire\\ConsoleProject\\Assignment1.csproj",
-      "projectName": "Assignment1",
-      "projectPath": "C:\\Users\\ACER\\Desktop\\BscCSIT-2023\\Section B\\MadhuGhimire\\ConsoleProject\\Assignment1.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\BscCSIT-2023\\Section B\\MadhuGhimire\\Assignment3\\Assignment3.csproj",
+      "projectName": "Assignment3",
+      "projectPath": "C:\\Users\\ACER\\Desktop\\BscCSIT-2023\\Section B\\MadhuGhimire\\Assignment3\\Assignment3.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\Desktop\\BscCSIT-2023\\Section B\\MadhuGhimire\\ConsoleProject\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\Desktop\\BscCSIT-2023\\Section B\\MadhuGhimire\\Assignment3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
