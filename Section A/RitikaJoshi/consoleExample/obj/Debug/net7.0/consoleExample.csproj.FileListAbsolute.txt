@@ -1,0 +1,15 @@
+D:\dotNet\BscCSIT-2023\Section A\RitikaJoshi\consoleExample\bin\Debug\net7.0\consoleExample.exe
+D:\dotNet\BscCSIT-2023\Section A\RitikaJoshi\consoleExample\bin\Debug\net7.0\consoleExample.deps.json
+D:\dotNet\BscCSIT-2023\Section A\RitikaJoshi\consoleExample\bin\Debug\net7.0\consoleExample.runtimeconfig.json
+D:\dotNet\BscCSIT-2023\Section A\RitikaJoshi\consoleExample\bin\Debug\net7.0\consoleExample.dll
+D:\dotNet\BscCSIT-2023\Section A\RitikaJoshi\consoleExample\bin\Debug\net7.0\consoleExample.pdb
+D:\dotNet\BscCSIT-2023\Section A\RitikaJoshi\consoleExample\obj\Debug\net7.0\consoleExample.csproj.AssemblyReference.cache
+D:\dotNet\BscCSIT-2023\Section A\RitikaJoshi\consoleExample\obj\Debug\net7.0\consoleExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet\BscCSIT-2023\Section A\RitikaJoshi\consoleExample\obj\Debug\net7.0\consoleExample.AssemblyInfoInputs.cache
+D:\dotNet\BscCSIT-2023\Section A\RitikaJoshi\consoleExample\obj\Debug\net7.0\consoleExample.AssemblyInfo.cs
+D:\dotNet\BscCSIT-2023\Section A\RitikaJoshi\consoleExample\obj\Debug\net7.0\consoleExample.csproj.CoreCompileInputs.cache
+D:\dotNet\BscCSIT-2023\Section A\RitikaJoshi\consoleExample\obj\Debug\net7.0\consoleExample.dll
+D:\dotNet\BscCSIT-2023\Section A\RitikaJoshi\consoleExample\obj\Debug\net7.0\refint\consoleExample.dll
+D:\dotNet\BscCSIT-2023\Section A\RitikaJoshi\consoleExample\obj\Debug\net7.0\consoleExample.pdb
+D:\dotNet\BscCSIT-2023\Section A\RitikaJoshi\consoleExample\obj\Debug\net7.0\consoleExample.genruntimeconfig.cache
+D:\dotNet\BscCSIT-2023\Section A\RitikaJoshi\consoleExample\obj\Debug\net7.0\ref\consoleExample.dll
