@@ -7,13 +7,10 @@ using System.IO;
 
 namespace Assignment2
 {
-
-
     class fileExercise
     {
         public void LineCount()
         {
-            
             int count = 0;
             StreamReader file = new StreamReader("C:\\Users\\sssre\\OneDrive\\Documents\\CSIT\\CSIT VI\\.NET\\github\\BscCSIT-2023\\Section A\\SubratRegmi\\myfile.txt");
             Console.WriteLine("File Content : ");
