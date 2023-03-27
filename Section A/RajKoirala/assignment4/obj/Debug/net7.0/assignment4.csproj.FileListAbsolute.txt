@@ -1,0 +1,15 @@
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment4\obj\Debug\net7.0\assignment4.csproj.AssemblyReference.cache
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment4\obj\Debug\net7.0\assignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment4\obj\Debug\net7.0\assignment4.AssemblyInfoInputs.cache
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment4\obj\Debug\net7.0\assignment4.AssemblyInfo.cs
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment4\obj\Debug\net7.0\assignment4.csproj.CoreCompileInputs.cache
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment4\bin\Debug\net7.0\assignment4.exe
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment4\bin\Debug\net7.0\assignment4.deps.json
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment4\bin\Debug\net7.0\assignment4.runtimeconfig.json
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment4\bin\Debug\net7.0\assignment4.dll
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment4\bin\Debug\net7.0\assignment4.pdb
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment4\obj\Debug\net7.0\assignment4.dll
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment4\obj\Debug\net7.0\refint\assignment4.dll
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment4\obj\Debug\net7.0\assignment4.pdb
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment4\obj\Debug\net7.0\assignment4.genruntimeconfig.cache
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment4\obj\Debug\net7.0\ref\assignment4.dll
