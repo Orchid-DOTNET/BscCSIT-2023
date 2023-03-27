@@ -1,4 +1,5 @@
-﻿namespace Assignment1
+﻿using System;
+namespace Assignment1
 {
     class stringToArray
     {
