@@ -1,5 +1,6 @@
 ﻿using System;
 using Assignment1;
+using MultipleInheritance;
 
 namespace CodeSpace
 {
@@ -8,11 +9,16 @@ namespace CodeSpace
         public static void Main()
         {
             //assignment 1
+        
             EditString.String_Edit();
+        
             //assignment 2
             newProgram.file();
+         
             //assignment 3
             Employee.myFunction();
+          
+            Calculation.Calculator.myCalc();
             
         }
     }
