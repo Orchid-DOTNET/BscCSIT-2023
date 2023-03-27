@@ -1,0 +1,15 @@
+E:\college\semesterVI\dotnet\BscCSIT-2023\Section A\AnkitShrestha\consoleExample\bin\Debug\net7.0\consoleExample.exe
+E:\college\semesterVI\dotnet\BscCSIT-2023\Section A\AnkitShrestha\consoleExample\bin\Debug\net7.0\consoleExample.deps.json
+E:\college\semesterVI\dotnet\BscCSIT-2023\Section A\AnkitShrestha\consoleExample\bin\Debug\net7.0\consoleExample.runtimeconfig.json
+E:\college\semesterVI\dotnet\BscCSIT-2023\Section A\AnkitShrestha\consoleExample\bin\Debug\net7.0\consoleExample.dll
+E:\college\semesterVI\dotnet\BscCSIT-2023\Section A\AnkitShrestha\consoleExample\bin\Debug\net7.0\consoleExample.pdb
+E:\college\semesterVI\dotnet\BscCSIT-2023\Section A\AnkitShrestha\consoleExample\obj\Debug\net7.0\consoleExample.csproj.AssemblyReference.cache
+E:\college\semesterVI\dotnet\BscCSIT-2023\Section A\AnkitShrestha\consoleExample\obj\Debug\net7.0\consoleExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\college\semesterVI\dotnet\BscCSIT-2023\Section A\AnkitShrestha\consoleExample\obj\Debug\net7.0\consoleExample.AssemblyInfoInputs.cache
+E:\college\semesterVI\dotnet\BscCSIT-2023\Section A\AnkitShrestha\consoleExample\obj\Debug\net7.0\consoleExample.AssemblyInfo.cs
+E:\college\semesterVI\dotnet\BscCSIT-2023\Section A\AnkitShrestha\consoleExample\obj\Debug\net7.0\consoleExample.csproj.CoreCompileInputs.cache
+E:\college\semesterVI\dotnet\BscCSIT-2023\Section A\AnkitShrestha\consoleExample\obj\Debug\net7.0\consoleExample.dll
+E:\college\semesterVI\dotnet\BscCSIT-2023\Section A\AnkitShrestha\consoleExample\obj\Debug\net7.0\refint\consoleExample.dll
+E:\college\semesterVI\dotnet\BscCSIT-2023\Section A\AnkitShrestha\consoleExample\obj\Debug\net7.0\consoleExample.pdb
+E:\college\semesterVI\dotnet\BscCSIT-2023\Section A\AnkitShrestha\consoleExample\obj\Debug\net7.0\consoleExample.genruntimeconfig.cache
+E:\college\semesterVI\dotnet\BscCSIT-2023\Section A\AnkitShrestha\consoleExample\obj\Debug\net7.0\ref\consoleExample.dll
