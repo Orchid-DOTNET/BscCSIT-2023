@@ -6,7 +6,7 @@ namespace Assignment3
 {
     public class Employee
     {
-        
+
         public int id;
         private string name;
         public int age;
@@ -33,7 +33,7 @@ namespace Assignment3
             Console.Write("\n[*] Salary: {0}", this.salary);
         }
 
-       
+
     }
 
     class Run_Assigment
