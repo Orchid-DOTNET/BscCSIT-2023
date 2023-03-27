@@ -9,7 +9,9 @@ namespace Assignments
         {
             /* Assignment1.EditString.StringEdit(); */
 
-            Employee.displayEmployee();
+            /*Employee.displayEmployee();*/
+
+            MultipleInheritance.Calculation.Calculator.Calculate();
 
         }
     }
