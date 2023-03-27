@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\Desktop\\.NETclass\\BscCSIT-2023\\Section B\\SushantGaire\\SushantGaire.csproj": {}
+    "C:\\Users\\acer\\Desktop\\.NETclass\\BscCSIT-2023\\Section B\\SushantGaire\\Assignment\\SushantGaire.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\Desktop\\.NETclass\\BscCSIT-2023\\Section B\\SushantGaire\\SushantGaire.csproj": {
+    "C:\\Users\\acer\\Desktop\\.NETclass\\BscCSIT-2023\\Section B\\SushantGaire\\Assignment\\SushantGaire.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\Desktop\\.NETclass\\BscCSIT-2023\\Section B\\SushantGaire\\SushantGaire.csproj",
+        "projectUniqueName": "C:\\Users\\acer\\Desktop\\.NETclass\\BscCSIT-2023\\Section B\\SushantGaire\\Assignment\\SushantGaire.csproj",
         "projectName": "SushantGaire",
-        "projectPath": "C:\\Users\\acer\\Desktop\\.NETclass\\BscCSIT-2023\\Section B\\SushantGaire\\SushantGaire.csproj",
+        "projectPath": "C:\\Users\\acer\\Desktop\\.NETclass\\BscCSIT-2023\\Section B\\SushantGaire\\Assignment\\SushantGaire.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\Desktop\\.NETclass\\BscCSIT-2023\\Section B\\SushantGaire\\obj\\",
+        "outputPath": "C:\\Users\\acer\\Desktop\\.NETclass\\BscCSIT-2023\\Section B\\SushantGaire\\Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
