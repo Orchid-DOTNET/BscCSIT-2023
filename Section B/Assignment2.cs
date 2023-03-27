@@ -1,34 +1,24 @@
 using System;
 using System.IO;
 
-namespace ConsoleExamples
+namespace Assignment2
 {
-    internal class Assignment2
+    public class FileIO
     {
-        static void Main()
+        public static void FileLineCount()
         {
-            string filePath = "C:\\Users\\Bivek\\Desktop\\dotNet\\BscCSIT-2023\\Section B\\BivekChaudhary\\ConsoleExamples\\Assignment2.txt";
+            StreamReader file = new StreamReader("D:\\BscCSIT-2023\\Section B\\SagarMajhi\\Assignment2.txt");
 
-            int lineCount = 0;
-            bool errorOccurred = false;
-
-            using (StreamReader reader = new StreamReader(filePath))
+            int count = 0;
+            string line = file.ReadLine();
+            while(line != null)
             {
-                while (reader.ReadLine() != null)
-                {
-                    lineCount++;
-                }
+                count++;
+                Console.WriteLine(line);
+                line = file.ReadLine();
             }
-
-            if (!errorOccurred)
-            {
-                Console.WriteLine($"The file contains {lineCount} lines.");
-            }
-            else
-            {
-                Console.WriteLine("An error occurred while reading the file.");
-            }
+            Console.WriteLine("\n\n[*] Number of Lines: {0}", count);
+            
         }
-    }
-
+    }   
 }
