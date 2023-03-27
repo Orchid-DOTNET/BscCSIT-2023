@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Desktop\\AvishekC#\\BscCSIT-2023\\Section B\\Section B.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\AvishekC#\\BscCSIT-2023\\Section B\\AvishekMajhi\\AvishekMajhi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Desktop\\AvishekC#\\BscCSIT-2023\\Section B\\Section B.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\AvishekC#\\BscCSIT-2023\\Section B\\AvishekMajhi\\AvishekMajhi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\AvishekC#\\BscCSIT-2023\\Section B\\Section B.csproj",
-        "projectName": "Section B",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\AvishekC#\\BscCSIT-2023\\Section B\\Section B.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\AvishekC#\\BscCSIT-2023\\Section B\\AvishekMajhi\\AvishekMajhi.csproj",
+        "projectName": "AvishekMajhi",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\AvishekC#\\BscCSIT-2023\\Section B\\AvishekMajhi\\AvishekMajhi.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\AvishekC#\\BscCSIT-2023\\Section B\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\AvishekC#\\BscCSIT-2023\\Section B\\AvishekMajhi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
