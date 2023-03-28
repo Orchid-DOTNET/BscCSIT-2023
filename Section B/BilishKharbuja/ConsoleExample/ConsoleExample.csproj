@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CalculatorProgram.assignment4</StartupObject>
+    <StartupObject>ExceptionHandlingDemo.Assignment5</StartupObject>
   </PropertyGroup>
 
 </Project>
