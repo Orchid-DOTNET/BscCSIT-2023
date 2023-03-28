@@ -28,9 +28,9 @@ public class AssignmentsMain {
     {
         exceptionHandling eh = new exceptionHandling();
         int a,b;
-        Console.WriteLine("Enter the value of x: ");
+        Console.WriteLine("Enter the value of a: ");
         a =Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("Enter the value of y: ");
+        Console.WriteLine("Enter the value of b: ");
         b = Convert.ToInt32(Console.ReadLine());
         eh.div(a, b);
     }
