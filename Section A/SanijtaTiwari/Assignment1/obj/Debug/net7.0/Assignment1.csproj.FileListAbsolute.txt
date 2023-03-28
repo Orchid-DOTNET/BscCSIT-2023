@@ -1,0 +1,15 @@
+D:\BscCSIT-2023\Section A\SanijtaTiwari\Assignment1\bin\Debug\net7.0\Assignment1.exe
+D:\BscCSIT-2023\Section A\SanijtaTiwari\Assignment1\bin\Debug\net7.0\Assignment1.deps.json
+D:\BscCSIT-2023\Section A\SanijtaTiwari\Assignment1\bin\Debug\net7.0\Assignment1.runtimeconfig.json
+D:\BscCSIT-2023\Section A\SanijtaTiwari\Assignment1\bin\Debug\net7.0\Assignment1.dll
+D:\BscCSIT-2023\Section A\SanijtaTiwari\Assignment1\bin\Debug\net7.0\Assignment1.pdb
+D:\BscCSIT-2023\Section A\SanijtaTiwari\Assignment1\obj\Debug\net7.0\Assignment1.csproj.AssemblyReference.cache
+D:\BscCSIT-2023\Section A\SanijtaTiwari\Assignment1\obj\Debug\net7.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BscCSIT-2023\Section A\SanijtaTiwari\Assignment1\obj\Debug\net7.0\Assignment1.AssemblyInfoInputs.cache
+D:\BscCSIT-2023\Section A\SanijtaTiwari\Assignment1\obj\Debug\net7.0\Assignment1.AssemblyInfo.cs
+D:\BscCSIT-2023\Section A\SanijtaTiwari\Assignment1\obj\Debug\net7.0\Assignment1.csproj.CoreCompileInputs.cache
+D:\BscCSIT-2023\Section A\SanijtaTiwari\Assignment1\obj\Debug\net7.0\Assignment1.dll
+D:\BscCSIT-2023\Section A\SanijtaTiwari\Assignment1\obj\Debug\net7.0\refint\Assignment1.dll
+D:\BscCSIT-2023\Section A\SanijtaTiwari\Assignment1\obj\Debug\net7.0\Assignment1.pdb
+D:\BscCSIT-2023\Section A\SanijtaTiwari\Assignment1\obj\Debug\net7.0\Assignment1.genruntimeconfig.cache
+D:\BscCSIT-2023\Section A\SanijtaTiwari\Assignment1\obj\Debug\net7.0\ref\Assignment1.dll
