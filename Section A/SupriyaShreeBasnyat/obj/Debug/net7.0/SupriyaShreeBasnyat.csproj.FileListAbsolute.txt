@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\dotnet\BscCSIT-2023\Section A\SupriyaShreeBasnyat\bin\Debug\net7.0\SupriyaShreeBasnyat.exe
+C:\Users\lenovo\Desktop\dotnet\BscCSIT-2023\Section A\SupriyaShreeBasnyat\bin\Debug\net7.0\SupriyaShreeBasnyat.deps.json
+C:\Users\lenovo\Desktop\dotnet\BscCSIT-2023\Section A\SupriyaShreeBasnyat\bin\Debug\net7.0\SupriyaShreeBasnyat.runtimeconfig.json
+C:\Users\lenovo\Desktop\dotnet\BscCSIT-2023\Section A\SupriyaShreeBasnyat\bin\Debug\net7.0\SupriyaShreeBasnyat.dll
+C:\Users\lenovo\Desktop\dotnet\BscCSIT-2023\Section A\SupriyaShreeBasnyat\bin\Debug\net7.0\SupriyaShreeBasnyat.pdb
+C:\Users\lenovo\Desktop\dotnet\BscCSIT-2023\Section A\SupriyaShreeBasnyat\obj\Debug\net7.0\SupriyaShreeBasnyat.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\dotnet\BscCSIT-2023\Section A\SupriyaShreeBasnyat\obj\Debug\net7.0\SupriyaShreeBasnyat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\dotnet\BscCSIT-2023\Section A\SupriyaShreeBasnyat\obj\Debug\net7.0\SupriyaShreeBasnyat.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\dotnet\BscCSIT-2023\Section A\SupriyaShreeBasnyat\obj\Debug\net7.0\SupriyaShreeBasnyat.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\dotnet\BscCSIT-2023\Section A\SupriyaShreeBasnyat\obj\Debug\net7.0\SupriyaShreeBasnyat.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\dotnet\BscCSIT-2023\Section A\SupriyaShreeBasnyat\obj\Debug\net7.0\SupriyaShreeBasnyat.dll
+C:\Users\lenovo\Desktop\dotnet\BscCSIT-2023\Section A\SupriyaShreeBasnyat\obj\Debug\net7.0\refint\SupriyaShreeBasnyat.dll
+C:\Users\lenovo\Desktop\dotnet\BscCSIT-2023\Section A\SupriyaShreeBasnyat\obj\Debug\net7.0\SupriyaShreeBasnyat.pdb
+C:\Users\lenovo\Desktop\dotnet\BscCSIT-2023\Section A\SupriyaShreeBasnyat\obj\Debug\net7.0\SupriyaShreeBasnyat.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\dotnet\BscCSIT-2023\Section A\SupriyaShreeBasnyat\obj\Debug\net7.0\ref\SupriyaShreeBasnyat.dll
