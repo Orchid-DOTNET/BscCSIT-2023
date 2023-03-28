@@ -1,0 +1,15 @@
+C:\git\BscCSIT-2023\Section A\ViditPandey\bin\Debug\net7.0\ViditPandey.exe
+C:\git\BscCSIT-2023\Section A\ViditPandey\bin\Debug\net7.0\ViditPandey.deps.json
+C:\git\BscCSIT-2023\Section A\ViditPandey\bin\Debug\net7.0\ViditPandey.runtimeconfig.json
+C:\git\BscCSIT-2023\Section A\ViditPandey\bin\Debug\net7.0\ViditPandey.dll
+C:\git\BscCSIT-2023\Section A\ViditPandey\bin\Debug\net7.0\ViditPandey.pdb
+C:\git\BscCSIT-2023\Section A\ViditPandey\obj\Debug\net7.0\ViditPandey.csproj.AssemblyReference.cache
+C:\git\BscCSIT-2023\Section A\ViditPandey\obj\Debug\net7.0\ViditPandey.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\BscCSIT-2023\Section A\ViditPandey\obj\Debug\net7.0\ViditPandey.AssemblyInfoInputs.cache
+C:\git\BscCSIT-2023\Section A\ViditPandey\obj\Debug\net7.0\ViditPandey.AssemblyInfo.cs
+C:\git\BscCSIT-2023\Section A\ViditPandey\obj\Debug\net7.0\ViditPandey.csproj.CoreCompileInputs.cache
+C:\git\BscCSIT-2023\Section A\ViditPandey\obj\Debug\net7.0\ViditPandey.dll
+C:\git\BscCSIT-2023\Section A\ViditPandey\obj\Debug\net7.0\refint\ViditPandey.dll
+C:\git\BscCSIT-2023\Section A\ViditPandey\obj\Debug\net7.0\ViditPandey.pdb
+C:\git\BscCSIT-2023\Section A\ViditPandey\obj\Debug\net7.0\ViditPandey.genruntimeconfig.cache
+C:\git\BscCSIT-2023\Section A\ViditPandey\obj\Debug\net7.0\ref\ViditPandey.dll
