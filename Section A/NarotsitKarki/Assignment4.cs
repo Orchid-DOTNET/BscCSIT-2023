@@ -1,5 +1,6 @@
 ﻿using System;
 
+// Creating interface for Differernt Arithmetic Operation
 namespace MultipleInheritance
 {
     public interface Calc1{float Add();}

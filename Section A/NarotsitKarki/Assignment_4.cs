@@ -2,6 +2,7 @@
 using MultipleInheritance;
 namespace Assignment4
 {
+    // Class that inherits Interface for Arithmetic Operation
     class Calculation : Calc1, Calc2, Calc3, Calc4
     {
         public float a;
@@ -51,7 +52,7 @@ namespace Assignment4
    class Menu
     {
       
-        // a Menu for Calculation;
+        // a Menu for Implementing Arithmetic Calculation;
         public static void menu_assignment_4()
         {
             

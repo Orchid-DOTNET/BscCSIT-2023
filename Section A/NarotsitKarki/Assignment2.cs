@@ -14,6 +14,7 @@ namespace Assignment2
             
             try
             {
+                
                 int line_count = File.ReadLines("D:\\BscCSIT-2023\\Section A\\NarotsitKarki\\Assignment2.txt").Count();
                 Console.WriteLine("[*] No of Lines : {0}", line_count);
             }

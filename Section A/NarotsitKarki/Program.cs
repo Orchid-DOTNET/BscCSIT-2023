@@ -1,8 +1,8 @@
 ﻿using Assignment2;
 using Assignment1;
 using Assignment3;
-
 using Assignment4;
+using Assignment5;
 
 namespace ConsoleApplication
 {
@@ -22,9 +22,13 @@ namespace ConsoleApplication
             //Assignment3.Run_Assigment.Run_Assignment_3();
 
             // Assignment 4 Runner
-             while(true){
-		Menu.menu_assignment_4();
-	     }
+            /*while(true){
+                   Menu.menu_assignment_4();
+               }
+            */
+
+            //Assignment 5 runner
+            Assignment5.Divison.divide(12, 0);
         }
 
         
