@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\dotnet\BscCSIT-2023\Section B\AdarshGautam\bin\Debug\net7.0\AdarshGautam.exe
+C:\Users\USER\Desktop\dotnet\BscCSIT-2023\Section B\AdarshGautam\bin\Debug\net7.0\AdarshGautam.deps.json
+C:\Users\USER\Desktop\dotnet\BscCSIT-2023\Section B\AdarshGautam\bin\Debug\net7.0\AdarshGautam.runtimeconfig.json
+C:\Users\USER\Desktop\dotnet\BscCSIT-2023\Section B\AdarshGautam\bin\Debug\net7.0\AdarshGautam.dll
+C:\Users\USER\Desktop\dotnet\BscCSIT-2023\Section B\AdarshGautam\bin\Debug\net7.0\AdarshGautam.pdb
+C:\Users\USER\Desktop\dotnet\BscCSIT-2023\Section B\AdarshGautam\obj\Debug\net7.0\AdarshGautam.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\dotnet\BscCSIT-2023\Section B\AdarshGautam\obj\Debug\net7.0\AdarshGautam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dotnet\BscCSIT-2023\Section B\AdarshGautam\obj\Debug\net7.0\AdarshGautam.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dotnet\BscCSIT-2023\Section B\AdarshGautam\obj\Debug\net7.0\AdarshGautam.AssemblyInfo.cs
+C:\Users\USER\Desktop\dotnet\BscCSIT-2023\Section B\AdarshGautam\obj\Debug\net7.0\AdarshGautam.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dotnet\BscCSIT-2023\Section B\AdarshGautam\obj\Debug\net7.0\AdarshGautam.dll
+C:\Users\USER\Desktop\dotnet\BscCSIT-2023\Section B\AdarshGautam\obj\Debug\net7.0\refint\AdarshGautam.dll
+C:\Users\USER\Desktop\dotnet\BscCSIT-2023\Section B\AdarshGautam\obj\Debug\net7.0\AdarshGautam.pdb
+C:\Users\USER\Desktop\dotnet\BscCSIT-2023\Section B\AdarshGautam\obj\Debug\net7.0\AdarshGautam.genruntimeconfig.cache
+C:\Users\USER\Desktop\dotnet\BscCSIT-2023\Section B\AdarshGautam\obj\Debug\net7.0\ref\AdarshGautam.dll
