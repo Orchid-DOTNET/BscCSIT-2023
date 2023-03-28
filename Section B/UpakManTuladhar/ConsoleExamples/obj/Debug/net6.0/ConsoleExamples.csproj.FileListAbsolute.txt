@@ -1,0 +1,15 @@
+C:\Users\upakt\Desktop\6th sem\.NET\BscCSIT-2023\Section B\UpakManTuladhar\ConsoleExamples\bin\Debug\net6.0\ConsoleExamples.exe
+C:\Users\upakt\Desktop\6th sem\.NET\BscCSIT-2023\Section B\UpakManTuladhar\ConsoleExamples\bin\Debug\net6.0\ConsoleExamples.deps.json
+C:\Users\upakt\Desktop\6th sem\.NET\BscCSIT-2023\Section B\UpakManTuladhar\ConsoleExamples\bin\Debug\net6.0\ConsoleExamples.runtimeconfig.json
+C:\Users\upakt\Desktop\6th sem\.NET\BscCSIT-2023\Section B\UpakManTuladhar\ConsoleExamples\bin\Debug\net6.0\ConsoleExamples.dll
+C:\Users\upakt\Desktop\6th sem\.NET\BscCSIT-2023\Section B\UpakManTuladhar\ConsoleExamples\bin\Debug\net6.0\ConsoleExamples.pdb
+C:\Users\upakt\Desktop\6th sem\.NET\BscCSIT-2023\Section B\UpakManTuladhar\ConsoleExamples\obj\Debug\net6.0\ConsoleExamples.csproj.AssemblyReference.cache
+C:\Users\upakt\Desktop\6th sem\.NET\BscCSIT-2023\Section B\UpakManTuladhar\ConsoleExamples\obj\Debug\net6.0\ConsoleExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upakt\Desktop\6th sem\.NET\BscCSIT-2023\Section B\UpakManTuladhar\ConsoleExamples\obj\Debug\net6.0\ConsoleExamples.AssemblyInfoInputs.cache
+C:\Users\upakt\Desktop\6th sem\.NET\BscCSIT-2023\Section B\UpakManTuladhar\ConsoleExamples\obj\Debug\net6.0\ConsoleExamples.AssemblyInfo.cs
+C:\Users\upakt\Desktop\6th sem\.NET\BscCSIT-2023\Section B\UpakManTuladhar\ConsoleExamples\obj\Debug\net6.0\ConsoleExamples.csproj.CoreCompileInputs.cache
+C:\Users\upakt\Desktop\6th sem\.NET\BscCSIT-2023\Section B\UpakManTuladhar\ConsoleExamples\obj\Debug\net6.0\ConsoleExamples.dll
+C:\Users\upakt\Desktop\6th sem\.NET\BscCSIT-2023\Section B\UpakManTuladhar\ConsoleExamples\obj\Debug\net6.0\refint\ConsoleExamples.dll
+C:\Users\upakt\Desktop\6th sem\.NET\BscCSIT-2023\Section B\UpakManTuladhar\ConsoleExamples\obj\Debug\net6.0\ConsoleExamples.pdb
+C:\Users\upakt\Desktop\6th sem\.NET\BscCSIT-2023\Section B\UpakManTuladhar\ConsoleExamples\obj\Debug\net6.0\ConsoleExamples.genruntimeconfig.cache
+C:\Users\upakt\Desktop\6th sem\.NET\BscCSIT-2023\Section B\UpakManTuladhar\ConsoleExamples\obj\Debug\net6.0\ref\ConsoleExamples.dll
