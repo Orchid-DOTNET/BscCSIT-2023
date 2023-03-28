@@ -11,7 +11,9 @@ namespace Assignments
 
             /*Employee.displayEmployee();*/
 
-            MultipleInheritance.Calculation.Calculator.Calculate();
+            //MultipleInheritance.Calculation.Calculator.Calculate();
+
+            LineRead.ReadLine();
 
         }
     }

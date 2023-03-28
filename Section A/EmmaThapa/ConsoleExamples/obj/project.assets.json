@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Emma\\.nuget\\packages\\": {}
+    "C:\\Users\\suman\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dotnet Class\\BscCSIT-2023\\Section A\\Samples\\ConsoleExamples\\ConsoleExamples.csproj",
+      "projectUniqueName": "D:\\Colz Notes\\Sixth Sem\\DotNet\\BscCSIT-2023\\Section A\\EmmaThapa\\ConsoleExamples\\ConsoleExamples.csproj",
       "projectName": "ConsoleExamples",
-      "projectPath": "D:\\Dotnet Class\\BscCSIT-2023\\Section A\\Samples\\ConsoleExamples\\ConsoleExamples.csproj",
-      "packagesPath": "C:\\Users\\Emma\\.nuget\\packages\\",
-      "outputPath": "D:\\Dotnet Class\\BscCSIT-2023\\Section A\\Samples\\ConsoleExamples\\obj\\",
+      "projectPath": "D:\\Colz Notes\\Sixth Sem\\DotNet\\BscCSIT-2023\\Section A\\EmmaThapa\\ConsoleExamples\\ConsoleExamples.csproj",
+      "packagesPath": "C:\\Users\\suman\\.nuget\\packages\\",
+      "outputPath": "D:\\Colz Notes\\Sixth Sem\\DotNet\\BscCSIT-2023\\Section A\\EmmaThapa\\ConsoleExamples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Emma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\suman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
