@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ConsoleExamples.Assignment2</StartupObject>
+    <StartupObject>Assignment5</StartupObject>
   </PropertyGroup>
 
 </Project>
