@@ -1,4 +1,6 @@
-﻿namespace ConsoleExamples
+﻿
+
+namespace ConsoleExamples
 {
     internal class Program
     {
@@ -8,6 +10,7 @@
             StringEdit stringEdit = new StringEdit();
             //Assignment 1
             stringEdit.DoubleQuote();
+
         }
     }
 }
