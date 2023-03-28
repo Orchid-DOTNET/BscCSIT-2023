@@ -1,8 +1,8 @@
 namespace ConsoleExamples
 {
-    public class StringEdit
+    public class StringDoubleQuotes
     {
-        public void DoubleQuote()
+        public void adddoubleQuotes()
         {
             Console.WriteLine("Enter a string: ");
             string value = Console.ReadLine();
