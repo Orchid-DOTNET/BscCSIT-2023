@@ -13,7 +13,8 @@ namespace Assignments
 
             //MultipleInheritance.Calculation.Calculator.Calculate();
 
-            LineRead.ReadLine();
+            //LineRead.ReadLine();
+            ErrorHandling.HandlingError();
 
         }
     }
