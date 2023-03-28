@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleExamples
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\
+=======
+build_property.ProjectDir = D:\Dotnet Class\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\
+>>>>>>> 558db8a61c82a1e1a66787feb12718809b826f71
