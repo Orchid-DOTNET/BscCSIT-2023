@@ -7,7 +7,7 @@ namespace Assignment2
     {
         public static void FileLineCount()
         {
-            StreamReader file = new StreamReader("D:\\BscCSIT-2023\\Section A\\AvishekMajhi\\Assignment2.txt");
+            StreamReader file = new StreamReader("D:\\BscCSIT-2023\\Section B\\DarshanBudhathoki\\Assignment2.txt");
             int count = 0;
             string line = file.ReadLine();
             while(line != null)
