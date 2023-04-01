@@ -1,0 +1,45 @@
+D:\Dotnet Class\BscCSIT-2023\Section A\Samples\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.exe
+D:\Dotnet Class\BscCSIT-2023\Section A\Samples\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.deps.json
+D:\Dotnet Class\BscCSIT-2023\Section A\Samples\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.runtimeconfig.json
+D:\Dotnet Class\BscCSIT-2023\Section A\Samples\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.dll
+D:\Dotnet Class\BscCSIT-2023\Section A\Samples\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.pdb
+D:\Dotnet Class\BscCSIT-2023\Section A\Samples\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.csproj.AssemblyReference.cache
+D:\Dotnet Class\BscCSIT-2023\Section A\Samples\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Class\BscCSIT-2023\Section A\Samples\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.AssemblyInfoInputs.cache
+D:\Dotnet Class\BscCSIT-2023\Section A\Samples\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.AssemblyInfo.cs
+D:\Dotnet Class\BscCSIT-2023\Section A\Samples\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.csproj.CoreCompileInputs.cache
+D:\Dotnet Class\BscCSIT-2023\Section A\Samples\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.dll
+D:\Dotnet Class\BscCSIT-2023\Section A\Samples\ConsoleExamples\obj\Debug\net7.0\refint\ConsoleExamples.dll
+D:\Dotnet Class\BscCSIT-2023\Section A\Samples\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.pdb
+D:\Dotnet Class\BscCSIT-2023\Section A\Samples\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.genruntimeconfig.cache
+D:\Dotnet Class\BscCSIT-2023\Section A\Samples\ConsoleExamples\obj\Debug\net7.0\ref\ConsoleExamples.dll
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.exe
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.deps.json
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.runtimeconfig.json
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.dll
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.pdb
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.csproj.AssemblyReference.cache
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.AssemblyInfoInputs.cache
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.AssemblyInfo.cs
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.csproj.CoreCompileInputs.cache
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.dll
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\obj\Debug\net7.0\refint\ConsoleExamples.dll
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.pdb
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.genruntimeconfig.cache
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section A\EmmaThapa\ConsoleExamples\obj\Debug\net7.0\ref\ConsoleExamples.dll
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section B\SudipRaj\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.csproj.AssemblyReference.cache
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section B\SudipRaj\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section B\SudipRaj\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.AssemblyInfoInputs.cache
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section B\SudipRaj\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.AssemblyInfo.cs
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section B\SudipRaj\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.csproj.CoreCompileInputs.cache
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section B\SudipRaj\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.dll
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section B\SudipRaj\ConsoleExamples\obj\Debug\net7.0\refint\ConsoleExamples.dll
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section B\SudipRaj\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.pdb
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section B\SudipRaj\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.exe
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section B\SudipRaj\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.deps.json
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section B\SudipRaj\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.runtimeconfig.json
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section B\SudipRaj\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.dll
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section B\SudipRaj\ConsoleExamples\bin\Debug\net7.0\ConsoleExamples.pdb
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section B\SudipRaj\ConsoleExamples\obj\Debug\net7.0\ConsoleExamples.genruntimeconfig.cache
+E:\CSIT\6th Semster\NET Centric\Lab\BscCSIT-2023\Section B\SudipRaj\ConsoleExamples\obj\Debug\net7.0\ref\ConsoleExamples.dll
