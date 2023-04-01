@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApplicationMVC",
+    "\\WebApplicationMVC\\Controllers",
+    "\\WebApplicationMVC\\Models",
+    "\\WebApplicationMVC\\Views",
+    "\\WebApplicationMVC\\Views\\Shared"
+  ],
+  "SelectedNode": "\\WebApplicationMVC\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
