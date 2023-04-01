@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.net\\Lab\\BscCSIT-2023\\Section B\\SanjeevNeupane\\SanjeevNeupane.csproj": {}
+    "E:\\.net\\Lab\\BscCSIT-2023\\Section B\\SanjeevNeupane\\ConsoleExamples\\ConsoleExamples.csproj": {}
   },
   "projects": {
-    "E:\\.net\\Lab\\BscCSIT-2023\\Section B\\SanjeevNeupane\\SanjeevNeupane.csproj": {
+    "E:\\.net\\Lab\\BscCSIT-2023\\Section B\\SanjeevNeupane\\ConsoleExamples\\ConsoleExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.net\\Lab\\BscCSIT-2023\\Section B\\SanjeevNeupane\\SanjeevNeupane.csproj",
-        "projectName": "SanjeevNeupane",
-        "projectPath": "E:\\.net\\Lab\\BscCSIT-2023\\Section B\\SanjeevNeupane\\SanjeevNeupane.csproj",
+        "projectUniqueName": "E:\\.net\\Lab\\BscCSIT-2023\\Section B\\SanjeevNeupane\\ConsoleExamples\\ConsoleExamples.csproj",
+        "projectName": "ConsoleExamples",
+        "projectPath": "E:\\.net\\Lab\\BscCSIT-2023\\Section B\\SanjeevNeupane\\ConsoleExamples\\ConsoleExamples.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\.net\\Lab\\BscCSIT-2023\\Section B\\SanjeevNeupane\\obj\\",
+        "outputPath": "E:\\.net\\Lab\\BscCSIT-2023\\Section B\\SanjeevNeupane\\ConsoleExamples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
