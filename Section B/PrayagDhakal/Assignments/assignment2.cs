@@ -1,5 +1,5 @@
 
-/*using System;
+using System;
 using System.IO;
 
 namespace Assignment2
@@ -22,4 +22,3 @@ namespace Assignment2
         }
     }   
 }
-*/
