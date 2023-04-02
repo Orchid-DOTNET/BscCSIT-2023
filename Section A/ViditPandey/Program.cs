@@ -3,6 +3,7 @@ using Assignment1;
 using Assignment3;
 
 using Assignment4;
+using Assignment5;
 
 namespace ConsoleApplication
 {
@@ -26,6 +27,10 @@ namespace ConsoleApplication
             /* while(true){
 		       Menu.menu();
 	           }*/
+
+            // Assignment 5
+            Assignment5.ExceptionHandling.divide(12, 2);
+
         }
 
         
