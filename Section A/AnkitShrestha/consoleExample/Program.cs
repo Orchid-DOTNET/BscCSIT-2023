@@ -1,28 +1,28 @@
-﻿// using Linkq;
+﻿using Linkq;
 
-// namespace ConsoleExamples
-// {
-//     internal class Program
-//     {
-//         private static void Main(string[] args)
-//         {
-//             //StringDoubleQuotes stringEdit = new StringDoubleQuotes();
-//             //Assignment 1
-//             //stringEdit.adddoubleQuotes();
+namespace ConsoleExamples
+{
+    internal class Program
+    {
+        private static void Main(string[] args)
+        {
+            //StringDoubleQuotes stringEdit = new StringDoubleQuotes();
+            //Assignment 1
+            //stringEdit.adddoubleQuotes();
 
-//             //Assignment 2
-//             // FileIO file = new FileIO();
-//             // file.fileOperation();
+            //Assignment 2
+            // FileIO file = new FileIO();
+            // file.fileOperation();
 
-//             //Assignment 3
-//             //LinkQExample linkq = new LinkQExample();
-//             //linkq.example();
-//             LinkQ lin = new LinkQ();
-//             lin.example();
+            //Assignment 3
+            //LinkQExample linkq = new LinkQExample();
+            //linkq.example();
+            LinkQ lin = new LinkQ();
+            lin.example();
 
-//         }
-//     }
-// }
+        }
+    }
+}
 
 // Assignment 4
 
@@ -42,19 +42,6 @@
 //             DivNumbers d = new DivNumbers();
 //             d.division(25, 0);
 //             Console.ReadKey();
-//         }
-//     }
-// }
-// namespace Linkq {
-//     class LinkQ {
-//         public void example()
-//         {
-//            List<string> str =  new List<string>(){"apple", "banana", "coconut", "aheap", "atrip"};  
-//             var res = from s in str where s.StartsWith('a') && s.EndsWith('p') select s;  
-//             // var res =  str.Select(s => s.StartsWith('a') && s.EndsWith('p'));
-            
-//             foreach(string i in res)   
-//             Console.WriteLine(i);
 //         }
 //     }
 // }
