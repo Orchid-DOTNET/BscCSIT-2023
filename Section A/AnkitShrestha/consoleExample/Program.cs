@@ -17,6 +17,8 @@ namespace ConsoleExamples
             //Assignment 3
             //LinkQExample linkq = new LinkQExample();
             //linkq.example();
+
+            // assignment 7
             LinkQ lin = new LinkQ();
             lin.example();
 
