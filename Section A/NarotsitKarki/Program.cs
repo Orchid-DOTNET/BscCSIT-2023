@@ -3,6 +3,7 @@ using Assignment1;
 using Assignment3;
 using Assignment4;
 using Assignment5;
+using Assignment7;
 
 namespace ConsoleApplication
 {
@@ -28,7 +29,8 @@ namespace ConsoleApplication
             */
 
             //Assignment 5 runner
-            Assignment5.Divison.divide(12, 0);
+            //Assignment5.Divison.divide(12, 0);
+            Filtering.filter();
         }
 
         
