@@ -1,9 +1,9 @@
 ﻿using Assignment2;
 using Assignment1;
 using Assignment3;
-
 using Assignment4;
 using Assignment5;
+using Assignment7;
 
 namespace ConsoleApplication
 {
@@ -29,8 +29,10 @@ namespace ConsoleApplication
 	           }*/
 
             // Assignment 5
-            Assignment5.ExceptionHandling.divide(12, 2);
+            // Assignment5.ExceptionHandling.divide(12, 2);
 
+            // Assignment 7
+            Filter_Name.filter_name();
         }
 
         
