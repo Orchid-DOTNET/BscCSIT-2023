@@ -1,0 +1,15 @@
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment3\bin\Debug\net7.0\assignment3.exe
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment3\bin\Debug\net7.0\assignment3.deps.json
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment3\bin\Debug\net7.0\assignment3.runtimeconfig.json
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment3\bin\Debug\net7.0\assignment3.dll
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment3\bin\Debug\net7.0\assignment3.pdb
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment3\obj\Debug\net7.0\assignment3.csproj.AssemblyReference.cache
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment3\obj\Debug\net7.0\assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment3\obj\Debug\net7.0\assignment3.AssemblyInfoInputs.cache
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment3\obj\Debug\net7.0\assignment3.AssemblyInfo.cs
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment3\obj\Debug\net7.0\assignment3.csproj.CoreCompileInputs.cache
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment3\obj\Debug\net7.0\assignment3.dll
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment3\obj\Debug\net7.0\refint\assignment3.dll
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment3\obj\Debug\net7.0\assignment3.pdb
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment3\obj\Debug\net7.0\assignment3.genruntimeconfig.cache
+C:\Users\raaam\OneDrive\Desktop\collegedotnet\BscCSIT-2023\Section A\RajKoirala\assignment3\obj\Debug\net7.0\ref\assignment3.dll
